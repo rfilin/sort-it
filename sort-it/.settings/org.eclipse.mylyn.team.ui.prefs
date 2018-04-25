@@ -1,0 +1,2 @@
+commit.comment.template=${sort-it}\: ${sort-it} \r\n\r\nTask-Url\: ${https\://github.com/rfilin/sort-it.git}
+eclipse.preferences.version=1
